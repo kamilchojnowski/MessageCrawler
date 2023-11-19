@@ -35,7 +35,7 @@ yarn-error.*
 *.tsbuildinfo
 
 # db
-_replicators/
+_replicator/
 _users/
 messages/
 pouch__all_dbs__/
